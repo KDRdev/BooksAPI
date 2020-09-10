@@ -1,5 +1,5 @@
 # BooksAPI
-A simple books API created using Django Python framework.
+A simple books API created using Django Python framework. All commands below assume that you are currently in the project root folder.
 
 ************************************************
 
