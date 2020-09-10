@@ -56,4 +56,4 @@ Start the app server using the following command
 
 ************************************************
 
-Go to http://localhost:8000 (or different address/port as per your configuration) and review the list of books added in the database and their reviews. Use "Filters" button to search for books (enter book title to find a book).
+Go to http://localhost:8000 (or different address/port as per your configuration) and review the list of books added in the database and their reviews. Use "Filters" button to search for books (enter book title to find a book) or go to http://localhost:8000/books/?search= and enter the book title in the search parameter value.
