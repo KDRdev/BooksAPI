@@ -31,6 +31,14 @@ Create a secret_settings.py file inside books_api directory and paste the secret
 
 ************************************************
 
+Run the following command to install Python dependencies for the app.
+
+```C
+    pip3 install -r requirements.txt
+```
+
+************************************************
+
 Run the following command to create DB tables for your app.
 
 ```C
